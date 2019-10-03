@@ -124,6 +124,10 @@ hr {
   max-width: 300px;
 }
 
+span.date {
+  margin-right: 50px;
+}
+
 .copyright {
   text-align: center;
 }
